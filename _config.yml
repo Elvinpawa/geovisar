@@ -24,9 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   A Repository to make GeoData visible with Smartphones based on AR.js.
 #baseurl: "" # the subpath of your site, e.g. /blog
 baseurl: "/geovisar" # GitHub Pages
-url: "https://schroppae.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://Elvinpawa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  "schroppae/geovisar"
+github_username:  "Elvinpawa/geovisar"
 
 
 # Build settings
