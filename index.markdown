@@ -9,6 +9,7 @@ layout: page
 
 # GeoVisAR
 
+Test Test
 Mit Hilfe von GeoVisAR könen auf einfache Weise Geodaten über webbasiertes Augmented Reality mit dem Smartphone erlebbar gemacht werden. In dieser Beispiel Anwendung werden Marker rund um das Hochschulzentrum der FOM in München mit Informationen für neue Studierende angezeigt. Über ein einfaches Forken des GitHub Repositorys wird es aber auch Interessierten ohne Programmierkenntnisse möglich webbasierte Augmented Reality Anwendungen zu erstellen und kostenlos über GitHub Pages zu veröffentlichen. Eine Anleitung für die notwendigen Anpassungen findet sich in der README des Repositorys.
 
 
