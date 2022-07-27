@@ -5,7 +5,7 @@
             "text": "Hier befindet sich die Studienberatung.",
             "type": "sphere",
             "model": "",
-            "color": "red",
+            "color": "yellow",
             "scale": {
                 "x":10,
                 "y":10,
@@ -19,7 +19,7 @@
             "text": "Hier befinden sich die \"A\"-Räume.",
             "type": "box",
             "model": "",
-            "color": "blue",
+            "color": "purple",
             "scale": {
                 "x":10,
                 "y":10,
@@ -47,7 +47,7 @@
             "text": "Hier befinden sich Aldi & REWE.",
             "type": "cone",
             "model": "",
-            "color": "green",
+            "color": "white",
             "scale": {
                 "x":10,
                 "y":10,
